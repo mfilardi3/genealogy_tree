@@ -1,0 +1,9 @@
+Vertices,Arestas
+Pedro,"[Maria, Josias]"
+Maria,"[Pedro, Mangojata, Samuel]"
+Josias,"[Pedro, Mangojata]"
+Mangojata,"[Josias, Maria, Ivane]"
+Samuel,"[Maria, Ivane]"
+Paulo,[Marcos]
+Marcos,[Paulo]
+Ivane,"[Samuel, Mangojata]"

@@ -1,0 +1,10 @@
+Vertices,Arestas
+Jose_1,[Maria]
+Maria,"[Jose_1, Sandra]"
+Josias,[Liboria]
+Liboria,"[Josias, Guapo]"
+Guapo,[Liboria]
+Sandra,"[Maria, Ivanir]"
+Paulo,[Jose_2]
+Jose_2,[Paulo]
+Ivanir,[Sandra]
